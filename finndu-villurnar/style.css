@@ -24,8 +24,8 @@ img {
   width: 100%;
   border-radius: 16px;
 }
-
-.card {
+/* Hér stóð .card en ekki .kort */
+.kort {
   border: 2px solid #fcacff;
   padding: 10px 24px;
 }
